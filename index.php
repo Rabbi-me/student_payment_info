@@ -137,21 +137,6 @@
                 <th>december</th>
                 <th>in total</th>
                 </tr>";
-            // echo "<tr>";
-            // echo "<td></td>";
-            // echo "<td>total--></td>";
-            // echo "<td></td>";
-            // echo "<td></td>";
-            // echo "<td></td>";
-            // echo "<td></td>";
-            // echo "<td></td>";
-            // echo "<td></td>";
-            // echo "<td></td>";
-            // echo "<td></td>";
-            // echo "<td></td>";
-            // echo "<td></td>";
-            // echo "<td></td>";
-            // echo "<td></td>";
 
             echo "</tr>";
 
