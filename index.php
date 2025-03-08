@@ -54,7 +54,7 @@
 </head>
 <body>
 
-    <h1>student payment info</h1>
+    <h1>student's payment info</h1>
 
     <?php
                         // ALL MONTH VALUE
