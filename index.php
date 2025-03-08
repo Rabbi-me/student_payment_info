@@ -180,7 +180,6 @@
         }
         // টেবিল শেষ
         echo "</table>";
-        echo "rabbi";
     ?>
 </body>
 </html>
