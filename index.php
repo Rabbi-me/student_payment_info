@@ -62,7 +62,7 @@
                         //asiya                sabbir               sabia                 rafia               samia               yasin 
                         $asiya1= null;      $sabbir1= 400;       $sabia1= 300;       $rafia1= 400;       $samia1= 400;       $yasin1= 300;
                         $asiya2= null;      $sabbir2= 400;       $sabia2= 300;       $rafia2= null;      $samia2= 400;       $yasin2= 300;
-                        $asiya3= null;      $sabbir3= null;      $sabia3= null;      $rafia3= null;      $samia3= null;      $yasin3= null;
+                        $asiya3= 400;       $sabbir3= 400;       $sabia3= 300;       $rafia3= 800;       $samia3= 400;       $yasin3= 300;
                         $asiya4= null;      $sabbir4= null;      $sabia4= null;      $rafia4= null;      $samia4= null;      $yasin4= null;
                         $asiya5= null;      $sabbir5= null;      $sabia5= null;      $rafia5= null;      $samia5= null;      $yasin5= null;
                         $asiya6= null;      $sabbir6= null;      $sabia6= null;      $rafia6= null;      $samia6= null;      $yasin6= null;
@@ -77,7 +77,7 @@
                         //mahim                moriom                jishan              medha               rimpa
                         $mahim1= 300;       $moriom1= 200;       $jishan1= null;     /* $medha1= null;       $rimpa1= null; */        
                         $mahim2= 300;       $moriom2= 200;       $jishan2= 400;      /* $medha2= null;       $rimpa2= null; */        
-                        $mahim3= null;      $moriom3= null;      $jishan3= null;     /* $medha3= null;       $rimpa3= null; */        
+                        $mahim3= 300;       $moriom3= null;      $jishan3= 400;      /* $medha3= null;       $rimpa3= null; */        
                         $mahim4= null;      $moriom4= null;      $jishan4= null;     /* $medha4= null;       $rimpa4= null; */        
                         $mahim5= null;      $moriom5= null;      $jishan5= null;     /* $medha5= null;       $rimpa5= null; */        
                         $mahim6= null;      $moriom6= null;      $jishan6= null;     /* $medha6= null;       $rimpa6= null; */        
