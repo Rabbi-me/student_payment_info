@@ -77,7 +77,7 @@
                         //mahim                moriom                jishan              medha               rimpa
                         $mahim1= 300;       $moriom1= 200;       $jishan1= null;     /* $medha1= null;       $rimpa1= null; */        
                         $mahim2= 300;       $moriom2= 200;       $jishan2= 400;      /* $medha2= null;       $rimpa2= null; */        
-                        $mahim3= 300;       $moriom3= null;      $jishan3= 400;      /* $medha3= null;       $rimpa3= null; */        
+                        $mahim3= 300;       $moriom3= 200;       $jishan3= 400;      /* $medha3= null;       $rimpa3= null; */        
                         $mahim4= null;      $moriom4= null;      $jishan4= null;     /* $medha4= null;       $rimpa4= null; */        
                         $mahim5= null;      $moriom5= null;      $jishan5= null;     /* $medha5= null;       $rimpa5= null; */        
                         $mahim6= null;      $moriom6= null;      $jishan6= null;     /* $medha6= null;       $rimpa6= null; */        
