@@ -64,7 +64,7 @@
                       /*FAB */  $asiya2= null;    /*FAB */ $sabbir2= 400;     /*FAB */  $sabia2= 300;      /*FAB */ $rafia2= 400;     /*FAB */  $samia2= 400;    /*FAB */  $yasin2= 300;
                       /*MAR */  $asiya3= 400;     /*MAR */ $sabbir3= 400;     /*MAR */  $sabia3= 300;      /*MAR */ $rafia3= 400;     /*MAR */  $samia3= 400;    /*MAR */  $yasin3= 300;
                       /*APR */  $asiya4= 400;     /*APR */ $sabbir4= 400;     /*APR */  $sabia4= 300;      /*APR */ $rafia4= null;    /*APR */  $samia4= 400;    /*APR */  $yasin4= 300;
-                      /*MAY */  $asiya5= null;    /*MAY */ $sabbir5= null;    /*MAY */  $sabia5= null;     /*MAY */ $rafia5= null;    /*MAY */  $samia5= null;   /*MAY */  $yasin5= null;
+                      /*MAY */  $asiya5= 400;     /*MAY */ $sabbir5= 400;     /*MAY */  $sabia5= 300;      /*MAY */ $rafia5= 800;     /*MAY */  $samia5= null;   /*MAY */  $yasin5= 300;
                       /*JUN */  $asiya6= null;    /*JUN */ $sabbir6= null;    /*JUN */  $sabia6= null;     /*JUN */ $rafia6= null;    /*JUN */  $samia6= null;   /*JUN */  $yasin6= null;
                       /*JUL */  $asiya7= null;    /*JUL */ $sabbir7= null;    /*JUL */  $sabia7= null;     /*JUL */ $rafia7= null;    /*JUL */  $samia7= null;   /*JUL */  $yasin7= null;
                       /*AUG */  $asiya8= null;    /*AUG */ $sabbir8= null;    /*AUG */  $sabia8= null;     /*AUG */ $rafia8= null;    /*AUG */  $samia8= null;   /*AUG */  $yasin8= null;
@@ -79,7 +79,7 @@
                        /*FAB */ $mahim2= 300;    /*FAB */   $moriom2= 200;      /*FAB */ $jishan2= 400;      /*FAB */ $lamiya2= null;      /* $rimpa2= null; */        
                        /*MAR */ $mahim3= 300;    /*MAR */   $moriom3= 200;      /*MAR */ $jishan3= 400;      /*MAR */ $lamiya3= null;      /* $rimpa3= null; */        
                        /*APR */ $mahim4= null;   /*APR */   $moriom4= 200;      /*APR */ $jishan4= null;     /*APR */ $lamiya4= 1500;      /* $rimpa4= null; */        
-                       /*MAY */ $mahim5= null;   /*MAY */   $moriom5= null;     /*MAY */ $jishan5= null;     /*MAY */ $lamiya5= null;      /* $rimpa5= null; */        
+                       /*MAY */ $mahim5= 500;    /*MAY */   $moriom5= 200;      /*MAY */ $jishan5= 800;      /*MAY */ $lamiya5= 1500;      /* $rimpa5= null; */        
                        /*JUN */ $mahim6= null;   /*JUN */   $moriom6= null;     /*JUN */ $jishan6= null;     /*JUN */ $lamiya6= null;      /* $rimpa6= null; */        
                        /*JUL */ $mahim7= null;   /*JUL */   $moriom7= null;     /*JUL */ $jishan7= null;     /*JUL */ $lamiya7= null;      /* $rimpa7= null; */        
                        /*AUG */ $mahim8= null;   /*AUG */   $moriom8= null;     /*AUG */ $jishan8= null;     /*AUG */ $lamiya8= null;      /* $rimpa8= null; */        
