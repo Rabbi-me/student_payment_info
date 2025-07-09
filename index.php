@@ -65,7 +65,7 @@
                       /*MAR */  $asiya3= 400;     /*MAR */ $sabbir3= 400;     /*MAR */  $sabia3= 300;      /*MAR */ $rafia3= 400;     /*MAR */  $samia3= 400;    /*MAR */  $yasin3= 300;
                       /*APR */  $asiya4= 400;     /*APR */ $sabbir4= 400;     /*APR */  $sabia4= 300;      /*APR */ $rafia4= null;    /*APR */  $samia4= 400;    /*APR */  $yasin4= 300;
                       /*MAY */  $asiya5= 400;     /*MAY */ $sabbir5= 400;     /*MAY */  $sabia5= 300;      /*MAY */ $rafia5= 800;     /*MAY */  $samia5= null;   /*MAY */  $yasin5= 300;
-                      /*JUN */  $asiya6= null;    /*JUN */ $sabbir6= null;    /*JUN */  $sabia6= null;     /*JUN */ $rafia6= null;    /*JUN */  $samia6= null;   /*JUN */  $yasin6= null;
+                      /*JUN */  $asiya6= 400;     /*JUN */ $sabbir6= null;    /*JUN */  $sabia6= null;     /*JUN */ $rafia6= null;    /*JUN */  $samia6= 400;    /*JUN */  $yasin6= 300;
                       /*JUL */  $asiya7= null;    /*JUL */ $sabbir7= null;    /*JUL */  $sabia7= null;     /*JUL */ $rafia7= null;    /*JUL */  $samia7= null;   /*JUL */  $yasin7= null;
                       /*AUG */  $asiya8= null;    /*AUG */ $sabbir8= null;    /*AUG */  $sabia8= null;     /*AUG */ $rafia8= null;    /*AUG */  $samia8= null;   /*AUG */  $yasin8= null;
                       /*SEP */  $asiya9= null;    /*SEP */ $sabbir9= null;    /*SEP */  $sabia9= null;     /*SEP */ $rafia9= null;    /*SEP */  $samia9= null;   /*SEP */  $yasin9= null;
@@ -74,33 +74,33 @@
                       /*DEC */  $asiya12= null;   /*DEC */ $sabbir12= null;   /*DEC */  $sabia12= null;    /*DEC */ $rafia12= null;   /*DEC */  $samia12= null;  /*DEC */  $yasin12= null;
 
 
-                                 //mahim                  moriom                      jishan                        lamiya                         rimpa
-                       /*JAN */ $mahim1= 300;    /*JAN */   $moriom1= 200;      /*JAN */ $jishan1= null;     /*JAN */ $lamiya1= null;      /* $rimpa1= null; */        
-                       /*FAB */ $mahim2= 300;    /*FAB */   $moriom2= 200;      /*FAB */ $jishan2= 400;      /*FAB */ $lamiya2= null;      /* $rimpa2= null; */        
-                       /*MAR */ $mahim3= 300;    /*MAR */   $moriom3= 200;      /*MAR */ $jishan3= 400;      /*MAR */ $lamiya3= null;      /* $rimpa3= null; */        
-                       /*APR */ $mahim4= null;   /*APR */   $moriom4= 200;      /*APR */ $jishan4= null;     /*APR */ $lamiya4= 1500;      /* $rimpa4= null; */        
-                       /*MAY */ $mahim5= 500;    /*MAY */   $moriom5= 200;      /*MAY */ $jishan5= 800;      /*MAY */ $lamiya5= 1500;      /* $rimpa5= null; */        
-                       /*JUN */ $mahim6= null;   /*JUN */   $moriom6= null;     /*JUN */ $jishan6= null;     /*JUN */ $lamiya6= null;      /* $rimpa6= null; */        
-                       /*JUL */ $mahim7= null;   /*JUL */   $moriom7= null;     /*JUL */ $jishan7= null;     /*JUL */ $lamiya7= null;      /* $rimpa7= null; */        
-                       /*AUG */ $mahim8= null;   /*AUG */   $moriom8= null;     /*AUG */ $jishan8= null;     /*AUG */ $lamiya8= null;      /* $rimpa8= null; */        
-                       /*SEP */ $mahim9= null;   /*SEP */   $moriom9= null;     /*SEP */ $jishan9= null;     /*SEP */ $lamiya9= null;      /* $rimpa9= null; */        
-                       /*OCT */ $mahim10= null;  /*OCT */   $moriom10= null;    /*OCT */ $jishan10= null;    /*OCT */ $lamiya10= null;     /* $rimpa10= null;*/        
-                       /*NOV */ $mahim11= null;  /*NOV */   $moriom11= null;    /*NOV */ $jishan11= null;    /*NOV */ $lamiya11= null;     /* $rimpa11= null;*/        
-                       /*DEC */ $mahim12= null;  /*DEC */   $moriom12= null;    /*DEC */ $jishan12= null;    /*DEC */ $lamiya12= null;     /* $rimpa12= null;*/  
+                                 //mahim                  moriom                      jishan                        lamiya                         sumaiya
+                       /*JAN */ $mahim1= 300;    /*JAN */   $moriom1= 200;      /*JAN */ $jishan1= null;     /*JAN */ $lamiya1= null;         $sumaiya1= null;        
+                       /*FAB */ $mahim2= 300;    /*FAB */   $moriom2= 200;      /*FAB */ $jishan2= 400;      /*FAB */ $lamiya2= null;         $sumaiya2= null;        
+                       /*MAR */ $mahim3= 300;    /*MAR */   $moriom3= 200;      /*MAR */ $jishan3= 400;      /*MAR */ $lamiya3= null;         $sumaiya3= null;        
+                       /*APR */ $mahim4= null;   /*APR */   $moriom4= 200;      /*APR */ $jishan4= null;     /*APR */ $lamiya4= 1500;         $sumaiya4= null;        
+                       /*MAY */ $mahim5= 500;    /*MAY */   $moriom5= 200;      /*MAY */ $jishan5= 800;      /*MAY */ $lamiya5= 1500;         $sumaiya5= null;        
+                       /*JUN */ $mahim6= 400;    /*JUN */   $moriom6= null;     /*JUN */ $jishan6= null;     /*JUN */ $lamiya6= 1500;         $sumaiya6= null;        
+                       /*JUL */ $mahim7= null;   /*JUL */   $moriom7= null;     /*JUL */ $jishan7= null;     /*JUL */ $lamiya7= null;         $sumaiya7= null;        
+                       /*AUG */ $mahim8= null;   /*AUG */   $moriom8= null;     /*AUG */ $jishan8= null;     /*AUG */ $lamiya8= null;         $sumaiya8= null;        
+                       /*SEP */ $mahim9= null;   /*SEP */   $moriom9= null;     /*SEP */ $jishan9= null;     /*SEP */ $lamiya9= null;         $sumaiya9= null;        
+                       /*OCT */ $mahim10= null;  /*OCT */   $moriom10= null;    /*OCT */ $jishan10= null;    /*OCT */ $lamiya10= null;        $sumaiya10= null;   
+                       /*NOV */ $mahim11= null;  /*NOV */   $moriom11= null;    /*NOV */ $jishan11= null;    /*NOV */ $lamiya11= null;        $sumaiya11= null;        
+                       /*DEC */ $mahim12= null;  /*DEC */   $moriom12= null;    /*DEC */ $jishan12= null;    /*DEC */ $lamiya12= null;        $sumaiya12= null; 
                         
 
-                        $total1= $asiya1 + $sabbir1 + $rafia1 + $samia1 + $sabia1 + $mahim1 + $yasin1 + $jishan1 + $moriom1 + $lamiya1 /*+ $rimpa1*/;
-                        $total2= $asiya2 + $sabbir2 + $rafia2 + $samia2 + $sabia2 + $mahim2 + $yasin2 + $jishan2 + $moriom2 + $lamiya2 /*+ $rimpa2*/;
-                        $total3= $asiya3 + $sabbir3 + $rafia3 + $samia3 + $sabia3 + $mahim3 + $yasin3 + $jishan3 + $moriom3 + $lamiya3 /*+ $rimpa3*/;
-                        $total4= $asiya4 + $sabbir4 + $rafia4 + $samia4 + $sabia4 + $mahim4 + $yasin4 + $jishan4 + $moriom4 + $lamiya4 /*+ $rimpa4*/;
-                        $total5= $asiya5 + $sabbir5 + $rafia5 + $samia5 + $sabia5 + $mahim5 + $yasin5 + $jishan5 + $moriom5 + $lamiya5 /*+ $rimpa5*/;
-                        $total6= $asiya6 + $sabbir6 + $rafia6 + $samia6 + $sabia6 + $mahim6 + $yasin6 + $jishan6 + $moriom6 + $lamiya6 /*+ $rimpa6*/;
-                        $total7= $asiya7 + $sabbir7 + $rafia7 + $samia7 + $sabia7 + $mahim7 + $yasin7 + $jishan7 + $moriom7 + $lamiya7 /*+ $rimpa7*/;
-                        $total8= $asiya8 + $sabbir8 + $rafia8 + $samia8 + $sabia8 + $mahim8 + $yasin8 + $jishan8 + $moriom8 + $lamiya8 /*+ $rimpa8*/;
-                        $total9= $asiya9 + $sabbir9 + $rafia9 + $samia9 + $sabia9 + $mahim9 + $yasin9 + $jishan9 + $moriom9 + $lamiya9 /*+ $rimpa9*/;
-                        $total10= $asiya10 + $sabbir10 + $rafia10 + $samia10 + $sabia10 + $mahim10 + $yasin10 + $jishan10 + $moriom10 + $lamiya10 /*+ $rimpa10*/;
-                        $total11= $asiya11 + $sabbir11 + $rafia11 + $samia11 + $sabia11 + $mahim11 + $yasin11 + $jishan11 + $moriom11 + $lamiya11 /*+ $rimpa11*/;
-                        $total12= $asiya12 + $sabbir12 + $rafia12 + $samia12 + $sabia12 + $mahim12 + $yasin12 + $jishan12 + $moriom12 + $lamiya12 /*+ $rimpa12*/;
+                        $total1= $asiya1 + $sabbir1 + $rafia1 + $samia1 + $sabia1 + $mahim1 + $yasin1 + $jishan1 + $moriom1 + $lamiya1 + $sumaiya1;
+                        $total2= $asiya2 + $sabbir2 + $rafia2 + $samia2 + $sabia2 + $mahim2 + $yasin2 + $jishan2 + $moriom2 + $lamiya2 + $sumaiya2;
+                        $total3= $asiya3 + $sabbir3 + $rafia3 + $samia3 + $sabia3 + $mahim3 + $yasin3 + $jishan3 + $moriom3 + $lamiya3 + $sumaiya3;
+                        $total4= $asiya4 + $sabbir4 + $rafia4 + $samia4 + $sabia4 + $mahim4 + $yasin4 + $jishan4 + $moriom4 + $lamiya4 + $sumaiya4;
+                        $total5= $asiya5 + $sabbir5 + $rafia5 + $samia5 + $sabia5 + $mahim5 + $yasin5 + $jishan5 + $moriom5 + $lamiya5 + $sumaiya5;
+                        $total6= $asiya6 + $sabbir6 + $rafia6 + $samia6 + $sabia6 + $mahim6 + $yasin6 + $jishan6 + $moriom6 + $lamiya6 + $sumaiya6;
+                        $total7= $asiya7 + $sabbir7 + $rafia7 + $samia7 + $sabia7 + $mahim7 + $yasin7 + $jishan7 + $moriom7 + $lamiya7 + $sumaiya7;
+                        $total8= $asiya8 + $sabbir8 + $rafia8 + $samia8 + $sabia8 + $mahim8 + $yasin8 + $jishan8 + $moriom8 + $lamiya8 + $sumaiya8;
+                        $total9= $asiya9 + $sabbir9 + $rafia9 + $samia9 + $sabia9 + $mahim9 + $yasin9 + $jishan9 + $moriom9 + $lamiya9 + $sumaiya9;
+                        $total10= $asiya10 + $sabbir10 + $rafia10 + $samia10 + $sabia10 + $mahim10 + $yasin10 + $jishan10 + $moriom10 + $lamiya10 + $sumaiya10;
+                        $total11= $asiya11 + $sabbir11 + $rafia11 + $samia11 + $sabia11 + $mahim11 + $yasin11 + $jishan11 + $moriom11 + $lamiya11 + $sumaiya11;
+                        $total12= $asiya12 + $sabbir12 + $rafia12 + $samia12 + $sabia12 + $mahim12 + $yasin12 + $jishan12 + $moriom12 + $lamiya12 + $sumaiya12;
                         
         // ডেটা অ্যারে
         $users = [
@@ -114,7 +114,7 @@
             ["id" => 8, "name" => "sabia   [300]",   "january" => $sabia1,   "february" =>$sabia2 ,   "march"=> $sabia3,   "april"=> $sabia4,   "may"=> $sabia5,   "june"=> $sabia6,   "july"=>$sabia7,   "august"=> $sabia8,   "september"=> $sabia9,    "october"=>$sabia10,   "november"=>$sabia11,   "december"=> $sabia12,    "total"=>$sabia1+$sabia2+$sabia3+$sabia4+$sabia5+$sabia6+$sabia7+$sabia8+$sabia9+$sabia10+$sabia11+$sabia12],
             ["id" => 9, "name" => "moriom  [200]",  "january" => $moriom1,  "february" =>$moriom2 ,  "march"=> $moriom3,  "april"=> $moriom4,  "may"=> $moriom5 , "june"=> $moriom6,  "july"=>$moriom7,  "august"=> $moriom8,  "september"=> $moriom9,   "october"=>$moriom10,  "november"=>$moriom11,  "december"=> $moriom12,   "total"=>$moriom1+$moriom2+$moriom3+$moriom4+$moriom5+$moriom6+$moriom7+$moriom8+$moriom9+$moriom10+$moriom11+$moriom12],
             ["id" => 10, "name" => "lamiya  [1500]",  "january" => $lamiya1,   "february" =>$lamiya2 ,   "march"=> $lamiya3,   "april"=> $lamiya4,   "may"=> $lamiya5,   "june"=> $lamiya6,   "july"=>$lamiya7,   "august"=> $lamiya8,   "september"=> $lamiya9,    "october"=>$lamiya10,   "november"=>$lamiya11,   "december"=> $lamiya12,    "total"=>$lamiya1+$lamiya2+$lamiya3+$lamiya4+$lamiya5+$lamiya6+$lamiya7+$lamiya8+$lamiya9+$lamiya10+$lamiya11+$lamiya12],
-    //      ["id" => 11, "name" => "rimpa  [400]",  "january" => $rimpa1,    "february" =>$rimpa2 ,  "march"=> $rimpa3,   "april"=> $rimpa4,   "may"=> $rimpa5,   "june"=> $rimpa6,   "july"=>$rimpa7,   "august"=> $rimpa8,   "september"=> $rimpa9,    "october"=>$rimpa10,   "november"=>$rimpa11,   "december"=> $rimpa12,    "total"=>+$rimpa1+$rimpa2+$rimpa3+$rimpa4+$rimpa5+$rimpa6+$rimpa7+$rimpa8+$rimpa9+$rimpa10+$rimpa12],
+            ["id" => 11, "name" => "sumaiya  [300]",  "january" => $sumaiya1,    "february" =>$sumaiya2 ,  "march"=> $sumaiya3,   "april"=> $sumaiya4,   "may"=> $sumaiya5,   "june"=> $sumaiya6,   "july"=>$sumaiya7,   "august"=> $sumaiya8,   "september"=> $sumaiya9,    "october"=>$sumaiya10,   "november"=>$sumaiya11,   "december"=> $sumaiya12,    "total"=>+$sumaiya1+$sumaiya2+$sumaiya3+$sumaiya4+$sumaiya5+$sumaiya6+$sumaiya7+$sumaiya8+$sumaiya9+$sumaiya10+$sumaiya12],
             ["id" => '/-', "name" => "total in a month__[3100]", "january" => $total1,   "february" =>$total2 ,   "march"=> $total3,   "april"=> $total4,   "may"=> $total5,   "june"=> $total6,   "july"=>$total7,   "august"=> $total8,   "september"=> $total9,    "october"=>$total10,   "november"=>$total11,   "december"=> $total12,    "total"=>$total1+$total2+$total3+$total4+$total5+$total6+$total7+$total8+$total9+$total10+$total11+$total12]
         ];
 
@@ -128,7 +128,7 @@
                 <th>march</th>
                 <th>april</th>
                 <th>may</th>
-                <th>june</th>
+                <th>june</th>*
                 <th>july</th>
                 <th>august</th>
                 <th>september</th>
