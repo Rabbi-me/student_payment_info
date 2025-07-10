@@ -80,7 +80,7 @@
                        /*MAR */ $mahim3= 300;    /*MAR */   $moriom3= 200;      /*MAR */ $jishan3= 400;      /*MAR */ $lamiya3= null;         $sumaiya3= null;        
                        /*APR */ $mahim4= null;   /*APR */   $moriom4= 200;      /*APR */ $jishan4= null;     /*APR */ $lamiya4= 1500;         $sumaiya4= null;        
                        /*MAY */ $mahim5= 500;    /*MAY */   $moriom5= 200;      /*MAY */ $jishan5= 800;      /*MAY */ $lamiya5= 1500;         $sumaiya5= null;        
-                       /*JUN */ $mahim6= 400;    /*JUN */   $moriom6= null;     /*JUN */ $jishan6= null;     /*JUN */ $lamiya6= 1500;         $sumaiya6= null;        
+                       /*JUN */ $mahim6= 400;    /*JUN */   $moriom6= 200;      /*JUN */ $jishan6= 400;      /*JUN */ $lamiya6= 1500;         $sumaiya6= null;        
                        /*JUL */ $mahim7= null;   /*JUL */   $moriom7= null;     /*JUL */ $jishan7= null;     /*JUL */ $lamiya7= null;         $sumaiya7= null;        
                        /*AUG */ $mahim8= null;   /*AUG */   $moriom8= null;     /*AUG */ $jishan8= null;     /*AUG */ $lamiya8= null;         $sumaiya8= null;        
                        /*SEP */ $mahim9= null;   /*SEP */   $moriom9= null;     /*SEP */ $jishan9= null;     /*SEP */ $lamiya9= null;         $sumaiya9= null;        
