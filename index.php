@@ -66,8 +66,8 @@
                       /*APR */  $asiya4= 400;     /*APR */ $sabbir4= 400;     /*APR */  $sabia4= 300;      /*APR */ $rafia4= null;    /*APR */  $samia4= 400;    /*APR */  $yasin4= 300;
                       /*MAY */  $asiya5= 400;     /*MAY */ $sabbir5= 400;     /*MAY */  $sabia5= 300;      /*MAY */ $rafia5= 800;     /*MAY */  $samia5= null;   /*MAY */  $yasin5= 300;
                       /*JUN */  $asiya6= 400;     /*JUN */ $sabbir6= 400;     /*JUN */  $sabia6= 300;      /*JUN */ $rafia6= 400;     /*JUN */  $samia6= 400;    /*JUN */  $yasin6= 300;
-                      /*JUL */  $asiya7= 400;     /*JUL */ $sabbir7= 400;     /*JUL */  $sabia7= 300;      /*JUL */ $rafia7= 300;     /*JUL */  $samia7= 400;    /*JUL */  $yasin7= 300;
-                      /*AUG */  $asiya8= null;    /*AUG */ $sabbir8= null;    /*AUG */  $sabia8= null;     /*AUG */ $rafia8= null;    /*AUG */  $samia8= null;   /*AUG */  $yasin8= null;
+                      /*JUL */  $asiya7= 400;     /*JUL */ $sabbir7= 400;     /*JUL */  $sabia7= 300;      /*JUL */ $rafia7= 400;     /*JUL */  $samia7= 400;    /*JUL */  $yasin7= 300;
+                      /*AUG */  $asiya8= 400;     /*AUG */ $sabbir8= 400;     /*AUG */  $sabia8= 300;      /*AUG */ $rafia8= 400;     /*AUG */  $samia8= 400;    /*AUG */  $yasin8= 300;
                       /*SEP */  $asiya9= null;    /*SEP */ $sabbir9= null;    /*SEP */  $sabia9= null;     /*SEP */ $rafia9= null;    /*SEP */  $samia9= null;   /*SEP */  $yasin9= null;
                       /*OCT */  $asiya10= null;   /*OCT */ $sabbir10= null;   /*OCT */  $sabia10= null;    /*OCT */ $rafia10= null;   /*OCT */  $samia10= null;  /*OCT */  $yasin10= null;
                       /*NOV */  $asiya11= null;   /*NOV */ $sabbir11= null;   /*NOV */  $sabia11= null;    /*NOV */ $rafia11= null;   /*NOV */  $samia11= null;  /*NOV */  $yasin11= null;
@@ -81,7 +81,7 @@
                        /*APR */ $mahim4= null;   /*APR */   $moriom4= 200;      /*APR */ $jishan4= null;     /*APR */ $lamiya4= 1500;       /*APR */  $sumaiya4= null;        
                        /*MAY */ $mahim5= 500;    /*MAY */   $moriom5= 200;      /*MAY */ $jishan5= 800;      /*MAY */ $lamiya5= 1500;       /*MAY */  $sumaiya5= null;        
                        /*JUN */ $mahim6= 400;    /*JUN */   $moriom6= 200;      /*JUN */ $jishan6= 400;      /*JUN */ $lamiya6= 1500;       /*JUN */  $sumaiya6= null;        
-                       /*JUL */ $mahim7= 300;    /*JUL */   $moriom7= 200;      /*JUL */ $jishan7= null;     /*JUL */ $lamiya7= 1300;       /*JUL */  $sumaiya7= 300;        
+                       /*JUL */ $mahim7= 300;    /*JUL */   $moriom7= 200;      /*JUL */ $jishan7= 400;      /*JUL */ $lamiya7= 1300;       /*JUL */  $sumaiya7= 300;        
                        /*AUG */ $mahim8= null;   /*AUG */   $moriom8= null;     /*AUG */ $jishan8= null;     /*AUG */ $lamiya8= null;       /*AUG */  $sumaiya8= null;        
                        /*SEP */ $mahim9= null;   /*SEP */   $moriom9= null;     /*SEP */ $jishan9= null;     /*SEP */ $lamiya9= null;       /*SEP */  $sumaiya9= null;        
                        /*OCT */ $mahim10= null;  /*OCT */   $moriom10= null;    /*OCT */ $jishan10= null;    /*OCT */ $lamiya10= null;      /*OCT */  $sumaiya10= null;   
